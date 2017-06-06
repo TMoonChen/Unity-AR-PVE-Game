@@ -1,0 +1,32 @@
+﻿{
+  "infoList": [
+    {
+      "panelTypeString": "AboutPanel",
+      "path": "UIPanel/AboutPanel"
+    },
+    {
+      "panelTypeString": "ARPanel",
+      "path": "UIPanel/ARPanel"
+    },
+    {
+      "panelTypeString": "LoaderPanel",
+      "path": "UIPanel/LoaderPanel"
+    },
+    {
+      "panelTypeString": "MenuPanel",
+      "path": "UIPanel/MenuPanel"
+    },
+    {
+      "panelTypeString": "PausePanel",
+      "path": "UIPanel/PausePanel"
+    },
+    {
+      "panelTypeString": "ScenePanel",
+      "path": "UIPanel/ScenePanel"
+    },
+    {
+      "panelTypeString": "SettingPanel",
+      "path": "UIPanel/SettingPanel"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+Begin Game=开始游戏
+Options=设置
+About=关于
+Exit=退出游戏
+Return=返回
+Volume=游戏音量
+Language=语言选择
+Save=保存
+game is loading=游戏正在加载中

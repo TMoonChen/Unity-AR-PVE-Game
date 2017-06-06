@@ -1,0 +1,9 @@
+Begin Game=Begin Game
+Options=Options
+About=About
+Exit=Exit
+Return=Return
+Volume=Volume
+Language=Language
+Save=Save
+game is loading=game is loading
